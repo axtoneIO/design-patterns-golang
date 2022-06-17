@@ -8,6 +8,6 @@ type Message struct {
 
 // MessageRepresented - Object representation
 type MessageRepresented struct {
-	Body 	[]byte
+	Body 	string
 	Format	string
 }
